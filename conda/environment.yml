@@ -1,0 +1,9 @@
+name: modbus_telemetry
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.13
+  - pip
+  - pymodbus
+  - pip:
