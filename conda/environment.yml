@@ -5,5 +5,5 @@ channels:
 dependencies:
   - python=3.13
   - pip
-  - pymodbus
+  - pymodbus=3.14.0
   - pip:
